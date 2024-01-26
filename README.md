@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thomas Pappas</h1>
-<h3 align="center">An electrical and computer engineer from Greece. I work as an IoT Research Engineer at the NAM Group, University of Patras</h3>
+<h3 align="center">An electrical and computer engineer from Greece.</h3>
 
-- 🔭 I’m currently working on **IoT, Cloud and Digital Twins**
+- 🔭 I’m currently working on **Web development, IoT and DevOps**
 
 - 📫 How to reach me **tms.pappas@gmail.com**
 
